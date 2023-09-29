@@ -1,0 +1,189 @@
+leftnav:
+- identifier: 58d5c81b-6191-fec3-9424-957ed96575b4
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 3d329753-f02a-515b-243c-8173490dc91e
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 116b0027-00e4-f3b6-53e2-ff1d7f6daed8
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 30
+- identifier: 7b5e342d-33e4-a67f-ad4c-1d265223c99b
+  name: Adoption and Adaptation
+  pageRef: /pages/instructor-insights/adoption-and-adaptation
+  parent: 116b0027-00e4-f3b6-53e2-ff1d7f6daed8
+  weight: 40
+- identifier: a735424a-98f6-c7c8-ff74-9476dacde695
+  name: The "Theory" in Theory of City Form
+  pageRef: /pages/instructor-insights/the-theory-in-theory-of-city-form
+  parent: 116b0027-00e4-f3b6-53e2-ff1d7f6daed8
+  weight: 50
+- identifier: 2b26cddf-bfc9-b0b7-7eed-b81aa4a46280
+  name: Key Aspects of the Course
+  pageRef: /pages/instructor-insights/key-aspects-of-the-course
+  parent: 116b0027-00e4-f3b6-53e2-ff1d7f6daed8
+  weight: 60
+- identifier: 5b3e38f7-fda4-36a9-de0b-29fe8f30045e
+  name: The Influence of the Present
+  pageRef: /pages/instructor-insights/the-influence-of-the-present
+  parent: 116b0027-00e4-f3b6-53e2-ff1d7f6daed8
+  weight: 70
+- identifier: 9602db1d-52df-fcbc-a0be-7773ec53947b
+  name: Readings
+  pageRef: /pages/readings
+  weight: 80
+- identifier: a3d91747-fe05-37ef-d9d2-3e93312c4b95
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes/
+  weight: 90
+- identifier: bee7b456-e71a-d59c-0ab6-30e61bf872fa
+  name: 'Lec 2: The City as Supernatural'
+  pageRef: /pages/lecture-notes/lec-2-normative-theory-i-the-city-as-supernatural
+  parent: a3d91747-fe05-37ef-d9d2-3e93312c4b95
+  weight: 100
+- identifier: 4a3ecd87-617a-7259-f32a-d4f121886c5a
+  name: 'Lec 3: The City as Machine'
+  pageRef: /pages/lecture-notes/lec-3-normative-theory-ii-the-city-as-machine
+  parent: a3d91747-fe05-37ef-d9d2-3e93312c4b95
+  weight: 110
+- identifier: 772834f6-7d3d-dee3-9a49-c52c8148fe9a
+  name: 'Lec 4: The City as Organism'
+  pageRef: /pages/lecture-notes/lec-4-normative-theory-iii-the-city-as-organism
+  parent: a3d91747-fe05-37ef-d9d2-3e93312c4b95
+  weight: 120
+- identifier: 4474e7ec-cbf7-8e3b-eee9-8d6485842852
+  name: 'Lec 5: Descriptive and Functional Theory'
+  pageRef: /pages/lecture-notes/lec-5-descriptive-and-functional-theory
+  parent: a3d91747-fe05-37ef-d9d2-3e93312c4b95
+  weight: 130
+- identifier: 611f0268-002f-d76a-b553-e5726f87b2cb
+  name: 'Lec 6: Dimensions, Patterns, Agreements, Structure, and Syntax'
+  pageRef: /pages/lecture-notes/lec-6-dimensions-patterns-agreements-structure-and-syntax
+  parent: a3d91747-fe05-37ef-d9d2-3e93312c4b95
+  weight: 140
+- identifier: 4dfd8d19-7039-42df-cff2-cb6cc251c7ff
+  name: 'Lec 7: The Early Cities of Capitalism'
+  pageRef: /pages/lecture-notes/lec-7-the-early-cities-of-capitalism
+  parent: a3d91747-fe05-37ef-d9d2-3e93312c4b95
+  weight: 150
+- identifier: b183d741-25a1-87e9-189d-92b53c843809
+  name: 'Lec 8: London'
+  pageRef: /pages/lecture-notes/lec-8-transformations-i-london
+  parent: a3d91747-fe05-37ef-d9d2-3e93312c4b95
+  weight: 160
+- identifier: a2b6f7da-38d3-423c-22eb-a89d63a1b339
+  name: 'Lec 9: Paris'
+  pageRef: /pages/lecture-notes/lec-9-transformations-ii-paris
+  parent: a3d91747-fe05-37ef-d9d2-3e93312c4b95
+  weight: 170
+- identifier: dc18d7ab-b1f6-fa8c-48c6-74652cb4c659
+  name: 'Lec 10: Vienna and Barcelona'
+  pageRef: /pages/lecture-notes/lec-10-transformations-iii-vienna-and-barcelona
+  parent: a3d91747-fe05-37ef-d9d2-3e93312c4b95
+  weight: 180
+- identifier: fe50cbfd-0b24-dfc3-aad6-79ef305c43c4
+  name: 'Lec 11: Chicago'
+  pageRef: /pages/lecture-notes/lec-11-transformations-iv-chicago
+  parent: a3d91747-fe05-37ef-d9d2-3e93312c4b95
+  weight: 190
+- identifier: 59854ea2-e3c7-fc39-2c3a-01f7203d35b3
+  name: 'Lec 12: Panopticism, St. Petersburg and Berlin'
+  pageRef: /pages/lecture-notes/lec-12-transformations-v-panopticism-st--petersburg-and-berlin
+  parent: a3d91747-fe05-37ef-d9d2-3e93312c4b95
+  weight: 200
+- identifier: d6a347b7-7065-0787-6c78-66849dfe1604
+  name: 'Lec 13: Utopianism as Social Reform and Built Form'
+  pageRef: /pages/lecture-notes/lec-13-utopianism-as-social-reform-and-built-form
+  parent: a3d91747-fe05-37ef-d9d2-3e93312c4b95
+  weight: 210
+- identifier: 423aeef3-ddb2-d12d-2670-2d8bf1abe659
+  name: 'Lec 14: Russian and Great Britain'
+  pageRef: /pages/lecture-notes/lec-14-20th-century-realizations-russian-and-great-britain
+  parent: a3d91747-fe05-37ef-d9d2-3e93312c4b95
+  weight: 220
+- identifier: 42a01cf4-ef09-d49f-1377-807e8aeec4b8
+  name: 'Lec 15: City Form and Process'
+  pageRef: /pages/lecture-notes/lec-15-city-form-and-process
+  parent: a3d91747-fe05-37ef-d9d2-3e93312c4b95
+  weight: 230
+- identifier: 7228ae0f-8c13-6e33-9f10-a04ee8a620fc
+  name: 'Lec 16: Theory for Spatial & Social Structure'
+  pageRef: /pages/lecture-notes/lec-16-spatial-social-structure-i-theory
+  parent: a3d91747-fe05-37ef-d9d2-3e93312c4b95
+  weight: 240
+- identifier: f6d13dfd-b74c-04f8-5dd8-c56d041d6712
+  name: 'Lec 17: Bipolarity'
+  pageRef: /pages/lecture-notes/lec-17-spatial-social-structure-ii-bipolarity
+  parent: a3d91747-fe05-37ef-d9d2-3e93312c4b95
+  weight: 250
+- identifier: fa2266e4-652c-77c0-431d-e6296d6ae7b0
+  name: 'Lec 18: Colony and Post-colony'
+  pageRef: /pages/lecture-notes/lec-18-spatial-social-structure-iii-colony-post-colony
+  parent: a3d91747-fe05-37ef-d9d2-3e93312c4b95
+  weight: 260
+- identifier: 78e73b78-bef2-b990-0b57-b2b1200bd943
+  name: 'Lec 19: Modern and Post-modern Urbanism'
+  pageRef: /pages/lecture-notes/lec-19-form-models-i-modern-and-post-modern-urbanism
+  parent: a3d91747-fe05-37ef-d9d2-3e93312c4b95
+  weight: 270
+- identifier: ef8a4c55-41c3-f297-dcda-efa3ec9ecffa
+  name: 'Lec 20: Open-endedness and Prophecy'
+  pageRef: /pages/lecture-notes/lec-20-form-models-ii-open-endedness-and-prophecy
+  parent: a3d91747-fe05-37ef-d9d2-3e93312c4b95
+  weight: 280
+- identifier: bc71084e-6d4e-27fe-5f23-66512793d080
+  name: 'Lec 21: Rationality and Memory'
+  pageRef: /pages/lecture-notes/lec-21-form-models-iii-and-iv-rationality-and-memory
+  parent: a3d91747-fe05-37ef-d9d2-3e93312c4b95
+  weight: 290
+- identifier: 5a307160-dfd9-e921-5166-56dc50d356f9
+  name: 'Lec 22: Public and Private Domains'
+  pageRef: /pages/lecture-notes/lec-22-cases-i-public-and-private-domains
+  parent: a3d91747-fe05-37ef-d9d2-3e93312c4b95
+  weight: 300
+- identifier: 097c6853-d19d-7a28-c378-c4bc52c3f804
+  name: 'Lec 23: Suburbs and Periphery'
+  pageRef: /pages/lecture-notes/lec-23-cases-ii-suburbs-and-periphery
+  parent: a3d91747-fe05-37ef-d9d2-3e93312c4b95
+  weight: 310
+- identifier: ab60759e-1b51-f29f-6486-1de4e727e69c
+  name: 'Lec 24: Post-urbanism and Resource Conservation'
+  pageRef: /pages/lecture-notes/lec-24-cases-iii-post-urbanism-and-resource-conservation
+  parent: a3d91747-fe05-37ef-d9d2-3e93312c4b95
+  weight: 320
+- identifier: 90b20ab0-b6d8-3e6b-57a5-cb89e3f35137
+  name: 'Lec 25: Hyper and Mega-urbanism'
+  pageRef: /pages/lecture-notes/lec-25-cases-iv-hyper-and-mega-urbanism
+  parent: a3d91747-fe05-37ef-d9d2-3e93312c4b95
+  weight: 330
+- identifier: a81fcd61-68f1-f799-29b9-38d765eb4192
+  name: Video Lectures
+  pageRef: /video_galleries/video-lectures
+  weight: 340
+- identifier: 79ec7efc-8164-a162-2eb8-3938d98390c7
+  name: Term Paper
+  pageRef: /pages/term-paper/
+  weight: 350
+- identifier: b8009992-c0eb-deb7-77cd-12da197338e8
+  name: Case Studies of Cities
+  pageRef: /pages/term-paper/case-studies-of-cities
+  parent: 79ec7efc-8164-a162-2eb8-3938d98390c7
+  weight: 360
+- identifier: 10d5014a-51a8-5c2e-e061-9feaedc72710
+  name: More Deeply Researched Aspects of a Topic
+  pageRef: /pages/term-paper/more-deeply-researched-aspects-of-a-topic
+  parent: 79ec7efc-8164-a162-2eb8-3938d98390c7
+  weight: 370
+- identifier: 10c2318f-c81b-a38a-1128-896d7be2beec
+  name: Form Issues of Today
+  pageRef: /pages/term-paper/form-issues-of-today
+  parent: 79ec7efc-8164-a162-2eb8-3938d98390c7
+  weight: 380
+- identifier: ccd9c2e2-8438-94ae-b448-8b7c6bafed0d
+  name: How Institutions Affect the Form of the City, or Vice Versa
+  pageRef: /pages/term-paper/how-institutions-affect-the-form-of-the-city-or-vice-versa
+  parent: 79ec7efc-8164-a162-2eb8-3938d98390c7
+  weight: 390
